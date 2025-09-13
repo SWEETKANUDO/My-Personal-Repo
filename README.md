@@ -15,7 +15,7 @@
 - Open to collaborate on **Projects & Open Source Contributions** 🤝  
 
 ### 📫 How to reach me
-- Just one step away 👉 **mihirbh@gmail.com** *(update with your real mail)*  
+- Just one step away 👉 **mihirbhuva1@gmail.com** 
 
 ### ⚡ Fun fact
 - I debug faster when I have chai ☕😉  
