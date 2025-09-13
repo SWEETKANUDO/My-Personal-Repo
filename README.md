@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png?text=✨+Mihir+Bhuva+✨" alt="Mihir Bhuva Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Mihir Bhuva</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 Open Source Enthusiast | 💻 Lifelong Learner</h3>
 
