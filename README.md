@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/000000/FFD700?text=✨+Mihir+Bhuva+✨" alt="Mihir Bhuva Banner"/>
+  <img src="banner.png?text=✨+Mihir+Bhuva+✨" alt="Mihir Bhuva Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mihir Bhuva</h1>
