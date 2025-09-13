@@ -25,7 +25,7 @@
   <a href="https://github.com/SWEETKANUDO" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a> href="https://mail.google.com/mail/?view=cm&to=mihirbhuva1@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=mihirbhuva1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://in.linkedin.com/in/mihir-bhuva-5422562b9" target="_blank">
