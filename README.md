@@ -11,7 +11,10 @@
 - Open to collaborate on **Projects & Open Source Contributions** 🤝  
 
 ### 📫 How to reach me
-- Just one step away 👉 [Email me](mailto:mihirbhuva1@gmail.com)  
+- Just one step away 👉<a href="https://mail.google.com/mail/?view=cm&to=mihirbhuva1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ### ⚡ Fun fact
 - I turn coffee into code ☕💻  
